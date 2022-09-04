@@ -1,0 +1,22 @@
+{
+	"email":"Kwan@gmail.com",
+	"imageUrl": "http://kwxyn.pythonanywhere.com/static/images/Kwan.jpg",
+	"jobTitle": "Software engineer",
+	"name": "Kwan Yen",
+	"phone": "1289814"
+}
+{
+	"email":"Shin@gmail.com",
+	"imageUrl": "https://www.instagram.com/p/CdQ18R2lVkj/",
+	"jobTitle": "Data engineer",
+	"name": "Shin Yan",
+	"phone": "219932"
+}
+{
+	"email":"Baka@gmail.com",
+	"imageUrl": "https://twinfinite.net/2022/05/what-does-baka-mean-in-anime/",
+	"jobTitle": "Game engineer",
+	"name": "Baka Yan",
+	"phone": "21129932"
+}
+}
